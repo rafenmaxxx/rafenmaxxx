@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/kazuha-genshin.gif" width="300" />
+  <img src="assets/genshin-impact-emote.gif" width="250" />
 </p>
 
 <!--
