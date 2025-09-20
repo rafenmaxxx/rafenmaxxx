@@ -1,4 +1,4 @@
-## Hi there 👋
+![kazuha](https://github.com/rafenmaxxx/rafenmaxxx/assets/kazuha-genshin.gif)
 
 <!--
 **rafenmaxxx/rafenmaxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
