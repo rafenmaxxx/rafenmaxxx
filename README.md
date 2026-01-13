@@ -1,16 +1,18 @@
-<p align="center">
-  <img src="assets/genshin-impact-emote.gif" width="150" />
+<p align="left">
+  <h1> <img src="assets/genshin-impact-emote.gif" width="70" /> Hi There! 👋 I'm Max! </h1>
 </p>
 
-<img align="left" alt = "Max's GitHub stats" src="https://github-readme-stats-phi-sable-54.vercel.app/api?username=rafenmaxxx&show_icons=true" />
+I'm currently studying Informatics Engineering at Institut Teknologi Bandung with a passion for data engineering and AI development.
+
+<img align="left" alt="Max's GitHub stats" src="https://github-readme-stats-phi-sable-54.vercel.app/api?username=rafenmaxxx&show_icons=true&theme=darcula&hide_border=true" />
+<img align="left" alt="Max's Top langs" src="https://github-readme-stats-phi-sable-54.vercel.app/api/top-langs?username=rafenmaxxx&theme=darcula&hide_border=true" />
 
 <!--
 **rafenmaxxx/rafenmaxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-[![Max's GitHub stats](https://github-readme-stats-phi-sable-54.vercel.app/api?username=rafenmaxxx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 Here are some ideas to get you started:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
