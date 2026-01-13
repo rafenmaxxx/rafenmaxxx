@@ -2,6 +2,7 @@
   <img src="assets/genshin-impact-emote.gif" width="150" />
 </p>
 
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafenmaxxx)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rafenmaxxx/rafenmaxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
