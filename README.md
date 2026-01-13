@@ -2,9 +2,13 @@
   <img src="assets/genshin-impact-emote.gif" width="150" />
 </p>
 
-[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafenmaxxx)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt = "Max's GitHub stats" src="https://github-readme-stats-phi-sable-54.vercel.app/api?username=rafenmaxxx&show_icons=true" />
+
 <!--
 **rafenmaxxx/rafenmaxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![Max's GitHub stats](https://github-readme-stats-phi-sable-54.vercel.app/api?username=rafenmaxxx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
