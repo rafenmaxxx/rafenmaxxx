@@ -1,5 +1,8 @@
 <p align="left">
-  <h1> <img src="assets/genshin-impact-emote.gif" width="70" /> Hi There! 👋 I'm Max! </h1>
+  <h1> <img src="assets/genshin-impact-emote.gif" width="70" /> 
+    &nbsp;
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=F7F7F7&width=435&lines=Hi+There!+I'm+Max!+%D9%A9(%5E%E1%97%9C%5E)%D9%88%C2%B4-" alt="Typing SVG" /></a>
+  </h1>
 </p>
 
 I'm currently studying Informatics Engineering at Institut Teknologi Bandung with a passion for data engineering and AI development.
